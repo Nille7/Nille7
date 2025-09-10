@@ -12,7 +12,7 @@ align="right" />
 ------------------- 
 - Artista 🎨
 - Faço pixelart
-- Aprendendo Front-end 
+- `Aprendendo Front-end`
 - Ominigun feito por mim e meu namorado, já disponível na [steam](https://store.steampowered.com/app/3817830/Ominigun/) 🌟
 - Iniciando um novo projeto de game🎮
 
@@ -22,8 +22,8 @@ align="right" />
 
 <div align=center>
 
-<img loading="onedark" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nille7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img loading="onedark" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nille7&layout=donut&langs_count=7&theme=onedark&hide_border=true"/>
+<img loading="onedark" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nille7&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img loading="onedark" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nille7&layout=donut&langs_count=7&theme=aura_dark&hide_border=true"/>
 
 
 
