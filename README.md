@@ -1,6 +1,7 @@
-﻿## #MeLeia.md
+
 
 <div align="left">
+  
 > “Mundos inteiros giram em torno de atos de imaginação.” - Décima terceira doutora 🌙
 
 Oeeee, me chamo Nicolle, deixando aqui um sobre mim🌱:
@@ -27,6 +28,7 @@ align="right" />
 
 
 </div>
+
 
 
 
